@@ -33,7 +33,7 @@ wspp070::get_error_message()   ## RStudio crashes
 If the same command is run from R in a terminal, it does not crash.
 
 
-The `get_error_message` C++ function is defined [here](https://github.com/wch/wsppcrash/blob/master/wspp070/src/websocketppcrash.cpp#L8-L14).
+The `get_error_message` C++ function is defined [here](https://github.com/wch/wsppcrash/blob/master/wspp070/src/wspp.cpp#L8-L14).
 
 
 ## Using websocketpp 0.5.1 and websocketpp 0.7.0 in the terminal
